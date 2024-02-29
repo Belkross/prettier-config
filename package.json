@@ -1,0 +1,19 @@
+{
+	"name": "@belkross/prettier-config",
+	"version": "1.0.0",
+	"description": "My personal prettier config",
+	"main": "index.json",
+	"scripts": {
+		"postversion": "git push origin"
+	},
+	"keywords": [
+		"prettier",
+		"config",
+		"belkross"
+	],
+	"author": "belkross",
+	"license": "ISC",
+	"publishConfig": {
+		"access": "public"
+	}
+}
