@@ -6,7 +6,7 @@
 	"tabWidth": 2,
 	"trailingComma": "es5",
 	"endOfLine": "lf",
-	"bracketSpacing": true,
+	"bracketSpacing": false,
 	"quoteProps": "as-needed",
 	"useTabs": false
 }
