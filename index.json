@@ -7,6 +7,6 @@
 	"trailingComma": "es5",
 	"endOfLine": "lf",
 	"bracketSpacing": false,
-	"quoteProps": "as-needed",
+	"quoteProps": "consistent",
 	"useTabs": false
 }
