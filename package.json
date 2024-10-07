@@ -4,7 +4,8 @@
 	"description": "My personal prettier config",
 	"main": "index.json",
 	"scripts": {
-		"postversion": "git push origin"
+		"postversion": "git push origin",
+		"publish": "npm publish"
 	},
 	"keywords": [
 		"prettier",
